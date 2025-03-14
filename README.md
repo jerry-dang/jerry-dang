@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! 👋 🙂
 I'm a software developer graduating in Spring of 2025 from UofT. I'm passionate about crafting intuitive user interfaces and building creative consumer applications. I love working with modern web technologies and always seek ways to enhance user experiences. Currently looking for new grad/full time opportunities!
 
 <p align="left">
