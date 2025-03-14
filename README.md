@@ -8,7 +8,22 @@ I'm a software developer graduating in Spring of 2025 from UofT. I'm passionate 
 
 ## 🚀 Currently Working On
 - **[LiteMacros]** – A cross-platform mobile application aiming to help users track their daily macros and weight progress with ease
+<p align="left">
+  <strong>Tech Stack:</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="16" height="16"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="16" height="16"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="16" height="16"/>
+</p>
+
 - **[B-Split]** – A simplistic bill splitting web application facilitating payments between different groups and parties
+<p>
+  <strong>Tech Stack:</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="16" height="16"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="16" height="16"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="16" height="16"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="16" height="16"/>
+  <img src="https://www.svgrepo.com/show/448299/aws.svg" alt="AWS" width="16" height="16" />
+</p>
 
 ## 📫 Connect with Me
 
