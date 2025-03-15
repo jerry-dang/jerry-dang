@@ -15,7 +15,7 @@ I'm a software developer graduating in Spring of 2025 from UofT. I'm passionate 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="16" height="16"/>
 </p>
 
-- **[B-Split]** – A simplistic bill splitting web application facilitating payments between different groups and parties
+- **[B-Split]** – A simplistic bill splitting web application facilitating payments between different groups and parties with a new feature
 <p>
   <strong>Tech Stack:</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="16" height="16"/>
