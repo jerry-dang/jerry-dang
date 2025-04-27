@@ -1,5 +1,5 @@
 ## Hello there! 👋 🙂
-I'm a software developer graduating in Spring of 2025 from UofT. I'm passionate about crafting intuitive user interfaces and building creative consumer applications. I love working with modern web technologies and always seek ways to enhance user experiences. Currently looking for new grad/full time opportunities!
+I'm a software developer graduating in Spring of 2025 from UofT. I'm passionate about crafting intuitive user interfaces and building creative consumer applications. I love working with modern web technologies and have a growing interest in systems programming and cybersecurity. Currently looking for new grad/full time opportunities!
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jerry-dang&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
